@@ -1,5 +1,7 @@
-<img align="right" src="https://media1.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e47bmbtfwd4drqelegt7u5roq6f9xkkwh3j3vlktkt1&rid=giphy.gif&ct=g" height = 150>
-<h1 align="center">Hello! I'm Serhii.</h1>
+<img align="right" src="https://user-images.githubusercontent.com/75932048/152502708-30bd327f-890a-4a11-b64f-af00e6e7804a.gif" height = 300>
+
+<h1 align="center">Hello! I'm Serhii.
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Beginner python developer, trying to change direction</h3>
 
 -------
