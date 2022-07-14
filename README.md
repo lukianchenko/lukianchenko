@@ -7,7 +7,7 @@
 -------
 
 <ul>
-  <li>🌱 I’m currently learning Python and Flask.</li>
+  <li>🌱 I’m currently learning Python and other technologies.</li>
   <li>📷 I like to shoot photos on film in my free time.</li>
 </ul>
 
